@@ -1,0 +1,13 @@
+{
+    "name": "TenatDashboard",
+    "alias": "tenatdashboard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TenatDashboard\\Providers\\TenatDashboardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

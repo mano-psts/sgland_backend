@@ -1,0 +1,13 @@
+{
+    "name": "Tenat",
+    "alias": "tenat",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tenat\\Providers\\TenatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
